@@ -1,3 +1,5 @@
+
+<?php
 //Odd int 6kata
 
 function findIt(array $seq) : int
