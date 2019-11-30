@@ -1,4 +1,3 @@
-
 <?php
 //Odd int 6kata
 
